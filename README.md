@@ -34,13 +34,3 @@ src/
     ├── StudentList.jsx   ← map() rendering, learner cards
     └── StatsBar.jsx      ← Extra component, stats display
 ```
-
-## Instructions to Run:
-- Clone the repository:
->>git clone https://github.com/jaswantsharma87/day1-student-management-app
-- Navigate to the app directory.
->>cd day1-student-management-app
-- Install node modules.
->>npm install
-- Bash
->>npm start
