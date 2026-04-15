@@ -15,15 +15,12 @@
  10. Update state 
  11. Student blueprint 
  12. Component structure 
- 13. Fake API call 
- 14. Handle async response
- 15. Capture form data 
+ 13. Handle async response
+ 14. Capture form data 
 
 ## Bonus Features (All Implemented)
 - Delete (remove) functionality
 - Search by name or course
-- Age filter toggle (Age ≥ 20)
-- CSS styling (custom dark theme)
 - Extra component: `StatsBar`
 
 ## Component Structure
@@ -38,11 +35,12 @@ src/
     └── StatsBar.jsx      ← Extra component, stats display
 ```
 
-## Anti-Plagiarism Measures Applied
-- Unique names
-- Age condition changed to `>= 20` (not just `> 18`)
-- Added empty-input validation
-- Added search feature
-- Added delete functionality
-- Added `StatsBar` as extra component
-- Custom dark UI theme
+## Instructions to Run:
+- Clone the repository:
+>>git clone https://github.com/jaswantsharma87/day1-student-management-app
+- Navigate to the app directory.
+>>cd day1-student-management-app
+- Install node modules.
+>>npm install
+- Bash
+>>npm start
